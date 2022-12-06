@@ -31,3 +31,5 @@ let myVar = "yo";
 let myVar2: string | number | null;
 myVar2 = 2;
 
+let var2: string;
+let dos : boolean;
