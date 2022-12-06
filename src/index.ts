@@ -33,3 +33,5 @@ myVar2 = 2;
 
 let var2: string;
 let dos : boolean;
+
+console.log('martin');
